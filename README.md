@@ -16,7 +16,7 @@
 - 👨‍💻 All of my projects are available here:  
 👉 [GitHub Profile](https://github.com/rajeevk0805)
 
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **rkrajeev0805@gmail.com**
 - ⚡ Fun fact: I love solving coding challenges and exploring tech trends.
 
 ---
@@ -64,7 +64,7 @@
 <a href="https://github.com/rajeevk0805" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/your-linkedin" target="blank">
+<a href="https://linkedin.com/in/rajeev-kumarrk" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
 </a>
 </p>
