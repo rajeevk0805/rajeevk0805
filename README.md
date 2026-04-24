@@ -1,74 +1,140 @@
 <h1 align="center">Hi 👋, I'm Rajeev Kumar</h1>
-<h3 align="center">Passionate Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">🚀 Java Full Stack Developer | MERN Stack Developer | Building Scalable Web Applications</h3>
 
 <p align="center">
   <a href="https://github.com/rajeevk0805">
-    <img src="https://komarev.com/ghpvc/?username=rajeevk0805&label=Profile%20views&color=0e75b6&style=flat" alt="rajeevk0805" />
+    <img src="https://komarev.com/ghpvc/?username=rajeevk0805&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/rajeevk0805?tab=followers">
+    <img src="https://img.shields.io/github/followers/rajeevk0805?label=Followers&style=for-the-badge&color=success" />
+  </a>
+  <a href="https://github.com/rajeevk0805">
+    <img src="https://img.shields.io/github/stars/rajeevk0805?affiliations=OWNER&style=for-the-badge&color=yellow" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-- 💻 I enjoy building projects and learning new technologies  
-- 🌱 Currently improving my skills in **Web Development & Programming**
-- 👨‍💻 All of my projects are available here:  
-👉 [GitHub Profile](https://github.com/rajeevk0805)
+## 👨‍💻 About Me
 
-- 📫 Reach me at: **rkrajeev0805@gmail.com**
-- ⚡ Fun fact: I love solving coding challenges and exploring tech trends.
+🎯 Passionate **Java Full Stack Developer** and **MERN Stack Developer** with hands-on experience in designing, developing, and deploying responsive web applications.
 
----
+💡 I love transforming ideas into real-world digital solutions with clean code, modern UI, and scalable backend systems.
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-
-### 🛢️ Database
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+🚀 Strong problem-solving mindset with focus on performance, user experience, and continuous learning.
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Professional Summary
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeevk0805&show_icons=true&theme=tokyonight" alt="stats" />
+✔️ Java Full Stack Development  
+✔️ MERN Stack Development  
+✔️ REST API Design & Integration  
+✔️ Frontend UI Development  
+✔️ Database Design & Management  
+✔️ Responsive Web Design  
+✔️ Version Control & Team Collaboration  
+
+---
+
+## 🛠️ Technical Skills
+
+### 🚀 Frontend Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevk0805&theme=tokyonight" alt="streak" />
+### ⚙️ Backend Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,python" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevk0805&layout=compact&theme=tokyonight" alt="langs" />
+### 🛢️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🚀 What I Can Build
 
-<p align="left">
-<a href="https://github.com/rajeevk0805" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" />
+🌐 Full Stack Web Applications  
+📱 Responsive Business Websites  
+🛒 E-Commerce Platforms  
+📊 Admin Dashboards  
+🔐 Authentication Systems  
+📦 REST APIs & Backend Services  
+☕ Java Enterprise Applications  
+
+---
+
+## 📌 Why Hire Me?
+
+✅ Strong command over frontend + backend development  
+✅ Ability to deliver complete end-to-end solutions  
+✅ Fast learner and adaptable to new technologies  
+✅ Clean coding standards and scalable architecture  
+✅ Team player with excellent communication skills  
+✅ Focused on delivering real business value  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajeevk0805&show_icons=true&theme=tokyonight&count_private=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevk0805&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevk0805&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeevk0805&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+🌱 Advanced Java Backend Development  
+🌱 Scalable MERN Applications  
+🌱 System Design & Architecture  
+🌱 Cloud Deployment & DevOps Basics  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/rajeevk0805">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://linkedin.com/in/rajeev-kumarrk" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+<a href="https://linkedin.com/in/rajeev-kumarrk">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:rkrajeev0805@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
 
 ---
 
-⭐️ From [Rajeev Kumar](https://github.com/rajeevk0805)
+<h3 align="center">💼 Open to Full Stack Developer Opportunities</h3>
+<h3 align="center">✨ Let's Build Something Amazing Together ✨</h3>
+
+<p align="center">
+⭐ From <a href="https://github.com/rajeevk0805">Rajeev Kumar</a>
+</p>
